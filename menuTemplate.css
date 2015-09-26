@@ -1,0 +1,98 @@
+﻿a:hover {
+    color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    font-size: 40px;
+    font-weight: bold;
+
+
+}
+
+a {
+    display: inline-block;
+    width: 252px;
+    height: 20px;
+    margin-bottom: 50px;
+    color: gray;
+}
+
+header {
+    text-align: center;
+    font-size: 60px;
+
+}
+body {
+    background-color: #CBCBCB;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+#h2F {
+    color: red;
+}
+#container {
+    width: 1009px;
+    height: 1470px;
+    margin: auto;
+    background-color: white;
+ 
+}
+header {
+font-weight: bold;
+}
+#tableProperties {
+    text-align: left;
+    float: left;
+    margin-bottom: 0px;
+    height: 21px;
+    width: 978px;
+    margin-right: 0px;
+    font-size: 20px;
+
+
+}
+#tablePropertiez {
+    text-align: center;
+    float: left;
+    margin-bottom: 0px;
+    height: 21px;
+    width: 930px;
+    margin-right: 0px;
+    font-size: 23px;
+
+}
+#tableBox {
+    width: 1009px;
+    height: 230px;
+    margin-bottom: 5px;
+
+}
+#Paninis {
+   margin-top: 0px;
+   margin-bottom: 0px;
+   text-align: left;
+   font-size: 25px;
+
+}
+#tblProperties {
+    text-align: left;
+    float: left;
+    width: 170%;
+    font-size: 25px;
+}
+#paragraph {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+
+
